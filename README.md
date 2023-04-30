@@ -16,7 +16,7 @@
   ``` $go run main.go ```
 
 
-<h3> all API in this repo</h3>
+<h3> All API in this repo</h3>
 
 - MEMBERS TABLE
 
@@ -32,5 +32,5 @@
 - LIKE_REVIEWS TABLE
 
   f. insert & delete<br>
-      POST "/like" <br>
-      DELETE "/dislike" <br>
+  ```    POST /like <br>
+      DELETE /dislike <br>```
