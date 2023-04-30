@@ -25,11 +25,12 @@
   c. DELETE /delete/:id_member <br>
   d. GET /selectallmember <br>
 
-- REVIEW_PRODUCTS TABLE)
+- REVIEW_PRODUCTS TABLE
 
   e. GET /selectidproduct/:id_product <br>
 
 - LIKE_REVIEWS TABLE
+
   f. insert & delete<br>
    POST "/like" <br>
    DELETE "/dislike" <br>
