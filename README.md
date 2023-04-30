@@ -5,11 +5,11 @@
 
 - Clone from this repository
 
-  ``` $git clone https://github.com/fauzilax/gdt-api.git ```
+  ``` $git clone https://github.com/fauzilax/tt-go.git ```
 
 - change directory 
 
-  ``` $cd gdt-api```
+  ``` $cd tt-go```
  
 - Run The Program
 
@@ -35,3 +35,5 @@
     ```POST /like ```<br>
     delete<br>
     ```DELETE /dislike``` <br>
+
+- also dont forget to create database and some table data from sql file in this folder repository tt-go.sql
