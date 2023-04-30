@@ -18,10 +18,18 @@
 
 <h3> all API in this repo</h3>
 
-a. (MEMBERS TABLE)<br>
-``` POST /insert ```<br>
-b. (MEMBERS TABLE) PUT /update/:id_member <br>
-c. (MEMBERS TABLE) DELETE /delete/:id_member <br>
-d. (MEMBERS TABLE) GET /selectallmember <br>
-e. (REVIEW_PRODUCTS TABLE) GET /selectidproduct/:id_product <br>
-f. (LIKE_REVIEWS TABLE) insert POST "/like" delete DELETE "/dislike" <br>
+- MEMBERS TABLE
+
+a. POST /insert <br>
+b. PUT /update/:id_member <br>
+c. DELETE /delete/:id_member <br>
+d. GET /selectallmember <br>
+
+- REVIEW_PRODUCTS TABLE)
+
+e. GET /selectidproduct/:id_product <br>
+
+- LIKE_REVIEWS TABLE
+f. insert & delete<br>
+ POST "/like" 
+ DELETE "/dislike" <br>
