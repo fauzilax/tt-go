@@ -36,4 +36,4 @@
     delete<br>
     ```DELETE /dislike``` <br>
 
-- also dont forget to create database and some table data from sql file in this folder repository tt-go.sql
+- also dont forget to create database and some table data from sql file in this folder repository ```tt-go.sql```
