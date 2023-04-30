@@ -31,5 +31,5 @@
 
 - LIKE_REVIEWS TABLE
   f. insert & delete<br>
-   POST "/like" 
+   POST "/like" <br>
    DELETE "/dislike" <br>
