@@ -20,17 +20,18 @@
 
 - MEMBERS TABLE
 
-  a. POST /insert <br>
-  b. PUT /update/:id_member <br>
-  c. DELETE /delete/:id_member <br>
-  d. GET /selectallmember <br>
+  ```POST /insert``` <br>
+  ```PUT /update/:id_member ```<br>
+  ```DELETE /delete/:id_member ```<br>
+  ```GET /selectallmember ```<br>
 
 - REVIEW_PRODUCTS TABLE
 
-  e. GET /selectidproduct/:id_product <br>
+  ```GET /selectidproduct/:id_product``` <br>
 
 - LIKE_REVIEWS TABLE
 
-  f. insert & delete<br>
+    insert <br>
     ```POST /like ```<br>
+    delete<br>
     ```DELETE /dislike``` <br>
